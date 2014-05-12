@@ -1,0 +1,6 @@
+.theos
+.tmp
+*.deb
+_
+theos
+obj
